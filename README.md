@@ -1,2 +1,2 @@
-# example-github-actions-container
+# example-dockerfile
 
