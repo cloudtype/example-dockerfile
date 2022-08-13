@@ -1,5 +1,4 @@
 FROM node:12-alpine
-LABEL org.opencontainers.image.source https://github.com/cloudtype/example-github-actions-container
 
 WORKDIR /app
 COPY *.json ./
